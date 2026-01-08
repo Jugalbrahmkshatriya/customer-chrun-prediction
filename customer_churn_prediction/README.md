@@ -89,3 +89,9 @@ git clone https://github.com/Jugalbrahmkshatriya/customer-chrun-prediction
 cd customer-churn-prediction
 pip install -r requirements.txt
 python src/main.py
+
+
+## 🤝 Contributions
+
+Feel free to open issues or submit pull requests.
+If you liked this project, don’t forget to ⭐ the repo.
