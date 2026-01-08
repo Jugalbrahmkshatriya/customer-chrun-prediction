@@ -31,21 +31,21 @@ Identifying **high-risk customers in advance** allows companies to:
 
 
 customer-churn-prediction/
-│
-├── data/
-│ └── churn.csv
-│
-├── src/
-│ ├── data_preprocessing.py
-│ ├── model_training.py
-│ ├── evaluation.py
-│ └── main.py
-│
-├── notebooks/
-│ └── exploration.ipynb
-│
-├── requirements.txt
-└── README.md
+  │
+  ├── data/
+  │ └── churn.csv
+  │
+  ├── src/
+  │ ├── data_preprocessing.py
+  │ ├── model_training.py
+  │ ├── evaluation.py
+  │ └── main.py
+  │
+  ├── notebooks/
+  │ └── exploration.ipynb
+  │
+  ├── requirements.txt
+  └── README.md
 
 
 
